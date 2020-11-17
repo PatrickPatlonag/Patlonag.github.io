@@ -1,3 +1,3 @@
-#HELLO WORLD!
+# HELLO WORLD!
 
-.[About](./pages/About.md)
+[About](./pages/About.md)

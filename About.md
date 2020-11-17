@@ -1,1 +1,1 @@
-# [Home](./pages/index.md)
+# [Home](./../pages/index.md)
